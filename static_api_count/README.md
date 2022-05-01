@@ -6,7 +6,7 @@
 
 1. Клонировать репозиторий
     ```
-    git clone 
+    git clone https://github.com/192117/task_from_CiPlay.git
     ```
 2. Переходим в директорию task_from_CiPlay\static_api_count
     ```
